@@ -43,7 +43,7 @@ latency.threshold.critical=200
 latency.threshold.warning=100
 ```
 ## Clone the repository
-git clone [https://github.com/YOUR_USERNAME/binance-latency-monitor.git](https://github.com/YOUR_USERNAME/binance-latency-monitor.git)
+git clone [https://github.com/Gokcemu/binance-latency-monitor.git](https://github.com/YOUR_USERNAME/binance-latency-monitor.git)
 
 ## Build the project
 mvn clean install
